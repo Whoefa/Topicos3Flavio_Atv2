@@ -41,7 +41,7 @@ export default function index() {
                     </Text>
                 </View>
             </View>
-            <Text style={[{ color: colors.brownDark, marginLeft: 10, fontSize: 16, fontWeight: 'bold' }]}>Valor:</Text>
+            <Text style={[{ color: colors.brownDark, marginLeft: 10, fontSize: 16, fontWeight: 'bold' }]}>Valor para Transferecia:</Text>
             <TextInput style={[styles.botaoInput]} placeholder='Informe o valor da entrada' />
             <View>
                 <Text style={[{ color: colors.brownDark, marginLeft: 10, fontSize: 16, fontWeight: 'bold', marginVertical: '5%' }]}>Método de depósito bancário?</Text>
